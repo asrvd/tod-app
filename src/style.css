@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #1f1c2e;
+    height: 100vh;
+    width: 100vw;
+}
+
+nav {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    padding: 0.2rem 10rem;
+    box-shadow: 0px -6px 27px 0px rgba(0,0,0,0.47);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav--logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.icon {
+    width: 3rem;
+    height: 3rem;
+}
+
+.nav--text {
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #d3d3d3;
+    cursor: pointer;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.main--heading {
+    font-size: 64px;
+    font-weight: 800;
+    font-family: 'Inter', sans-serif;
+    color: whitesmoke;
+}
+
+.tr {
+    color: #4deba1;
+}
+
+.dr {
+    color: #ff6169;
+}
+
+.main--text {
+    margin-top: 0;
+    color: lightgray;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+
+}
+
+.truth-btn, .dare-btn {
+    border: none;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+    padding: 1rem 3rem;
+    margin: 0.5rem 0.6rem;
+    border-radius: 5px;
+    color: #1f1c2e;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.dare-btn {
+    background-color: rgba(255, 97, 105, 1);
+}
+
+.truth-btn {
+    background-color: rgba(77, 235, 161, 1);
+}
+
+.dare-btn:hover {
+    background-color: rgba(255, 97, 105, 0.9);
+}
+
+.truth-btn:hover {
+    background-color: rgba(77, 235, 161, 0.9);
+}
+
+.game {
+    display: flex;
+    flex-direction: column;
+    background-color: #12101c;
+    width: 60%;
+    margin-top: 2rem;
+    padding: 0 2rem;
+    border-radius: 8px;
+}
+
+.game--head {
+    border-bottom: 2px solid #d3d3d3;
+    font-family: 'Inter', sans-serif;
+}
+
+.tod {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: lightslategrey;
+}
+
+.game--content {
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    font-size: 1rem;
+    font-weight: 400;
+    color: lightslategrey;
+}
+
+footer {
+    padding: 0px 10px;
+    margin-top: 50px;
+}
+
+.footer--text {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #d3d3d3;
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+    color: #778899;
+}
+
+.icon {
+    margin: 0 0.5rem;
+}
+
+
+
