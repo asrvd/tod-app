@@ -8,7 +8,7 @@ export default function Navbar() {
     return (
         <nav className="navbar">
             <div className="nav--logo">
-                <img src="icon.png" className="icon"></img>
+                <img src="icon.png" className="icon" alt="icon"></img>
                 <h2 className="nav--text">Truth or Dare</h2>
             </div>
             <div className="nav--icons">
