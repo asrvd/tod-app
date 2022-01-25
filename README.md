@@ -1,4 +1,5 @@
 # Truth or Dare Generator
+[![Netlify Status](https://api.netlify.com/api/v1/badges/acc33434-735a-448b-9feb-c3cececb9c1d/deploy-status)](https://app.netlify.com/sites/tod-generator/deploys)
 
 ### Made Using-
 - ⚛ Framework [ReactJS](https://reactjs.org/)
