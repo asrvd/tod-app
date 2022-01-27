@@ -1,207 +1,604 @@
 {
-    "truth": [
-        {"content":"What color underwear are you wearing right now?"},
-        {"content":"What was the last thing you texted?"},
-        {"content":"If you were rescuing people from a burning building and you had to leave one person behind from this room, who would it be?"},
-        {"content":"Do you think you'll marry your current girlfriend/boyfriend?,How often do you wash your undergarments?"},
-        {"content":"Have you ever tasted ear wax?"},
-        {"content":"Have you ever farted and then blamed someone else?"},
-        {"content":"Have you ever tasted your sweat?"},
-        {"content":"What is the most illegal thing you have ever done?"},
-        {"content":"Who is your favorite: Mom or Dad?"},
-        {"content":"Would you trade your sibling in for a million dollars?"},
-        {"content":"Would you trade in your dog for a million dollars?"},
-        {"content":"What is your biggest pet peeve?"},
-        {"content":"If you were allowed to marry more than one person, would you? Who would you choose to marry?"},
-        {"content":"Would you rather lose your sex organs forever or gain 200 pounds?"},
-        {"content":"Would you choose to save 100 people without anyone knowing about it or not save them but have everyone praise you for it?"},
-        {"content":"If you could only hear one song for the rest of your life, what would it be?"},
-        {"content":"If you lost one day of your life every time you said a swear word, would you try not to do it?"},
-        {"content":"Who in this room would be the worst person to date? Why?"},
-        {"content":"Would you rather live with no internet or no A/C or heating?"},
-        {"content":"If someone offered you $1 million to break up with your girlfriend/boyfriend, would you do it?"},
-        {"content":"If you were reborn, what decade would you want to be born in?"},
-        {"content":"If you could go back in time in erase one thing you said or did, what would it be?"},
-        {"content":"Has your boyfriend or girlfriend ever embarrassed you?"},
-        {"content":"Have you ever thought about cheating on your partner?"},
-        {"content":"If you could suddenly become invisible, what would you do?"},
-        {"content":"Have you ever been caught checking someone out?"},
-        {"content":"Have you ever waved at someone thinking they saw you when really they didn't? What did you do when you realized it?"},
-        {"content":"Have you ever cried because you missed your parents so much?"},
-        {"content":"Would you rather be caught picking your nose or picking a wedgie?"},
-        {"content":"Describe the strangest dream you've ever had. Did you like it?"},
-        {"content":"Have you ever posted something on social media that you regret?"},
-        {"content":"What is your biggest fear?"},
-        {"content":"Do you pee in the shower?"},
-        {"content":"Have you ever ding dong ditched someone?"},
-        {"content":"The world ends next week, and you can do anything you want (even if it's illegal). What would you do?"},
-        {"content":"Would you wear your shirt inside out for a whole day if someone paid you $100?"},
-        {"content":"What is the most childish thing that you still do?"},
-        {"content":"How far would you go to land the guy or girl of your dreams?"},
-        {"content":"Tell us about a time you embarrassed yourself in front of a crush."},
-        {"content":"Have you ever kept a library book?"},
-        {"content":"Who is one person you pretend to like, but actually don't?"},
-        {"content":"What children’s movie could you watch over and over again?"},
-        {"content":"Do you have bad foot odor?"},
-        {"content":"Do you have any silly nicknames?"},
-        {"content":"When was the last time you wet the bed?"},
-        {"content":"How many pancakes have you eaten in a single sitting?"},
-        {"content":"Have you ever accidentally hit something with your car?"},
-        {"content":"If you had to make out with any Disney character, who would it be?"},
-        {"content":"Have you ever watched a movie you knew you shouldn't?"},
-        {"content":"Have you ever wanted to try LARP (Live Action Role-Play)?"},
-        {"content":"What app on your phone do you waste the most time on?"},
-        {"content":"Have you ever pretended to be sick to get out of something? If so, what was it?"},
-        {"content":"What is the most food you've eaten in a single sitting?"},
-        {"content":"Do you dance when you're by yourself?"},
-        {"content":"Would you have voted for or against Trump?"},
-        {"content":"What song on the radio do you sing with every time it comes on?"},
-        {"content":"Do you sleep with a stuffed animal?"},
-        {"content":"Do you own a pair of footie pajamas?"},
-        {"content":"Are you scared of the dark?"},
-        {"content":"What 'as seen on TV' product do you secretly want to buy?"},
-        {"content":"Do you still take bubble baths?"},
-        {"content":"If you were home by yourself all day, what would you do?"},
-        {"content":"How many selfies do you take a day?"},
-        {"content":"What is something you've done to try to be 'cooler'?"},
-        {"content":"What do your favorite pajamas look like?"},
-        {"content":"Do you have a security blanket?"},
-        {"content":"Have you ever eaten something off the floor?"},
-        {"content":"Have you ever butt-dialed someone?"},
-        {"content":"Do you like hanging out with your parents?"},
-        {"content":"Have you ever got caught doing something you shouldn't?"},
-        {"content":"What part of your body do you love, and which part do you hate?"},
-        {"content":"Have you ever had lice?"},
-        {"content":"Have you ever pooped your pants?"},
-        {"content":"Do you lick your plate?"},
-        {"content":"What's the most trouble you've been in?"},
-        {"content":"Have you ever lied to get out of a bad date?"},
-        {"content":"Why did your last relationship break down?"},
-        {"content":"Are you virgin?"},
-        {"content":"What's the biggest misconception about you?"},
-        {"content":"What's your biggest regret?"},
-        {"content":"When was the last time you cried?"},
-        {"content":"When was the last time you lied?"},
-        {"content":"Do you write in a diary?"},
-        {"content":"What's your biggest fantasy?"},
-        {"content":"Have you ever cheated on someone?"},
-        {"content":"What's a secret you've never told anyone?"},
-        {"content":"Do you have a hidden talent?"},
-        {"content":"Who was your first celebrity crush"},
-        {"content":"Have you ever cheated in an exam?"},
-        {"content":"What's the most embarrassing thing you've ever done?"},
-        {"content":"What's your biggest insecurity?"},
-        {"content":"What's the biggest mistake you've ever made?"},
-        {"content":"What's the most disgusting thing you've ever done?"},
-        {"content":"What's the worst thing anyone's ever done to you?"},
-        {"content":"Have you ever had a run in with the law?"},
-        {"content":"What's your worst habit?"},
-        {"content":"What's the worst thing you've ever said to anyone?"},
-        {"content":"Have you ever peed in the shower?"},
-        {"content":"What's the strangest dream you've had?"},
-        {"content":"Have you ever been caught doing something you shouldn't have?"},
-        {"content":"What's the worst date you've been on?"}
-    ],
-
-    "dare":[
-        {"content":"Let another player post a status on your social."},
-        {"content":"Do freestyle rap for 1 minute about the other participants."},
-        {"content":"Smell every other players' armpits."},
-        {"content":"Kiss the person to your left."},
-        {"content":"Do an impression of another player until someone can figure out who it is."},
-        {"content":"Call your crush."},
-        {"content":"Dance with no music for 1 minute."},
-        {"content":"Do a cartwheel."},
-        {"content":"Let the person on your right draw on your face."},
-        {"content":"Give your phone to another player who can send one text saying anything they want to one of your contacts."},
-        {"content":"Drink lemon juice."},
-        {"content":"Crack an egg on our head."},
-        {"content":"wap clothes with someone of the opposite sex for 2 rounds."},
-        {"content":"Act like a chicken until your next turn."},
-        {"content":"Burp the alphabet."},
-        {"content":"Talk in a Jamaican accent until your next turn."},
-        {"content":"Call a friend, pretend it's their birthday, and sing “Happy Birthday” to them."},
-        {"content":"Perform ballet for 1 minute."},
-        {"content":"Shower with your clothes on."},
-        {"content":"Take a selfie on the toilet and post it."},
-        {"content":"End each sentence with the word “not” until your next turn."},
-        {"content":"Name a famous person that looks like each player."},
-        {"content":"Dance like your life depends on it."},
-        {"content":"Eat a packet of hot sauce or ketchup straight."},
-        {"content":"Pour ice down your pants."},
-        {"content":"Spin around 12 times and try to walk straight."},
-        {"content":"Put on a blindfold and touch the other players’ faces until you can figure out who it is."},
-        {"content":"Let the other players redo your hairstyle."},
-        {"content":"Eat a raw egg."},
-        {"content":"Let the player to your right redo your makeup."},
-        {"content":"Pretend to be a squirrel until your next turn."},
-        {"content":"Dump a bucket of cold water on your head."},
-        {"content":"Lick a bar of soap."},
-        {"content":"Eat a teaspoon of mustard."},
-        {"content":"Talk without closing your mouth."},
-        {"content":"You have 5 minutes to write a country song and perform it."},
-        {"content":"Let someone paint your nails any way they want."},
-        {"content":"Do 5 minutes of stand-up comedy."},
-        {"content":"Quack like a duck until your next turn."},
-        {"content":"Sing the national anthem in a British accent."},
-        {"content":"Do 100 squats."},
-        {"content":"Show the most embarrassing photo on your phone."},
-        {"content":"Give a foot massage to the person on your right."},
-        {"content":"Eat a banana without using your hands."},
-        {"content":"Twerk for a minute."},
-        {"content":"Keep your eyes closed until it's your go again."},
-        {"content":"Like the first 15 posts on your Facebook newsfeed."},
-        {"content":"Send a sext to the last person in your phonebook."},
-        {"content":"Eat a raw onion."},
-        {"content":"Keep three ice cubes in your mouth until they melt."},
-        {"content":"Give a lap dance to someone of your choice."},
-        {"content":"Yell out the first word that comes to your mind."},
-        {"content":"Show off your orgasm face."},
-        {"content":"Empty out your wallet/purse and show everyone what's inside."},
-        {"content":"Remove four items of clothing."},
-        {"content":"Put 10 different available liquids into a cup and drink it."},
-        {"content":"Do your best impression of a baby being born."},
-        {"content":"Try to lick your elbow."},
-        {"content":"Pretend to be the person to your right for 10 minutes."},
-        {"content":"Do your best sexy crawl."},
-        {"content":"Try to drink a glass of water while standing on your hands."},
-        {"content":"Say two honest things about everyone else in the group."},
-        {"content":"Put as many snacks into your mouth at once as you can."},
-        {"content":"Try and make the group laugh as quickly as possible."},
-        {"content":"Let someone shave part of your body."},
-        {"content":"Tell everyone an embarrassing story about yourself."},
-        {"content":"For a guy, put on makeup. For a girl, wash off your make up."},
-        {"content":"Do four cartwheels in a row."},
-        {"content":"Tell the saddest story you know."},
-        {"content":"Belly dance like your life depended on it."},
-        {"content":"Curse like sailor for 20 seconds straight."},
-        {"content":"Howl like a wolf."},
-        {"content":"Dance without music for one minute."},
-        {"content":"Pole dance with an imaginary pole."},
-        {"content":"Let someone else tickle you and try not to laugh."},
-        {"content":"Talk in an accent for the next 3 rounds."},
-        {"content":"Make every person in the group smile, keep going until everyone has cracked a smile."},
-        {"content":"Kiss the person to your left."},
-        {"content":"Attempt to do a magic trick."},
-        {"content":"Attempt to breakdance for one minute."},
-        {"content":"Take a shower with your clothes on."},
-        {"content":"Attempt to walk on your hands for as far as you can."},
-        {"content":"Get slapped on the face by the person of your choosing."},
-        {"content":"Seduce a member of the same gender in the group."},
-        {"content":"Choose someone from the group to give you a spanking."},
-        {"content":"Drag your butt on the carpet like a dog from one end of the room to the other."},
-        {"content":"Open a bag of snacks or candy using only your mouth, no hands or feet."},
-        {"content":"Bend at the waist so that you are looking behind you between your legs. Now run backwards until you can tag someone with your butt."},
-        {"content":"Go to the bathroom, take off your underwear and put it on your head. Wear it on your head for the rest of the game."},
-        {"content":"Act like whatever animal someone yells out for the next 1 minute."},
-        {"content":"Eat one teaspoon of the spiciest thing you have in the kitchen."},
-        {"content":"Transfer an ice cube from your mouth to the person's mouth on your right."},
-        {"content":"Sit in a spinning chair and have the group spin you for 30 seconds."},
-        {"content":"Jump up and down as high as you can go for a full minute."},
-        {"content":"Beg and plead the person to your right not to leave you for that other boy or girl."},
-        {"content":"Put ice cubes down your pants."},
-        {"content":"Let the group pose you in an embarrassing position and take a picture."},
-        {"content":"Let the group look through your phone for one minute."}
-
-    ]
+  "truth": [
+    {
+      "content": "What color underwear are you wearing right now?"
+    },
+    {
+      "content": "What was the last thing you texted?"
+    },
+    {
+      "content": "If you were rescuing people from a burning building and you had to leave one person behind from this room, who would it be?"
+    },
+    {
+      "content": "Do you think you'll marry your current girlfriend/boyfriend?,How often do you wash your undergarments?"
+    },
+    {
+      "content": "Have you ever tasted ear wax?"
+    },
+    {
+      "content": "Have you ever farted and then blamed someone else?"
+    },
+    {
+      "content": "Have you ever tasted your sweat?"
+    },
+    {
+      "content": "What is the most illegal thing you have ever done?"
+    },
+    {
+      "content": "Who is your favorite: Mom or Dad?"
+    },
+    {
+      "content": "Would you trade your sibling in for a million dollars?"
+    },
+    {
+      "content": "Would you trade in your dog for a million dollars?"
+    },
+    {
+      "content": "What is your biggest pet peeve?"
+    },
+    {
+      "content": "If you were allowed to marry more than one person, would you? Who would you choose to marry?"
+    },
+    {
+      "content": "Would you rather lose your sex organs forever or gain 200 pounds?"
+    },
+    {
+      "content": "Would you choose to save 100 people without anyone knowing about it or not save them but have everyone praise you for it?"
+    },
+    {
+      "content": "If you could only hear one song for the rest of your life, what would it be?"
+    },
+    {
+      "content": "If you lost one day of your life every time you said a swear word, would you try not to do it?"
+    },
+    {
+      "content": "Who in this room would be the worst person to date? Why?"
+    },
+    {
+      "content": "Would you rather live with no internet or no A/C or heating?"
+    },
+    {
+      "content": "If someone offered you $1 million to break up with your girlfriend/boyfriend, would you do it?"
+    },
+    {
+      "content": "If you were reborn, what decade would you want to be born in?"
+    },
+    {
+      "content": "If you could go back in time in erase one thing you said or did, what would it be?"
+    },
+    {
+      "content": "Has your boyfriend or girlfriend ever embarrassed you?"
+    },
+    {
+      "content": "Have you ever thought about cheating on your partner?"
+    },
+    {
+      "content": "If you could suddenly become invisible, what would you do?"
+    },
+    {
+      "content": "Have you ever been caught checking someone out?"
+    },
+    {
+      "content": "Have you ever waved at someone thinking they saw you when really they didn't? What did you do when you realized it?"
+    },
+    {
+      "content": "Have you ever cried because you missed your parents so much?"
+    },
+    {
+      "content": "Would you rather be caught picking your nose or picking a wedgie?"
+    },
+    {
+      "content": "Describe the strangest dream you've ever had. Did you like it?"
+    },
+    {
+      "content": "Have you ever posted something on social media that you regret?"
+    },
+    {
+      "content": "What is your biggest fear?"
+    },
+    {
+      "content": "Do you pee in the shower?"
+    },
+    {
+      "content": "Have you ever ding dong ditched someone?"
+    },
+    {
+      "content": "The world ends next week, and you can do anything you want (even if it's illegal). What would you do?"
+    },
+    {
+      "content": "Would you wear your shirt inside out for a whole day if someone paid you $100?"
+    },
+    {
+      "content": "What is the most childish thing that you still do?"
+    },
+    {
+      "content": "How far would you go to land the guy or girl of your dreams?"
+    },
+    {
+      "content": "Tell us about a time you embarrassed yourself in front of a crush."
+    },
+    {
+      "content": "Have you ever kept a library book?"
+    },
+    {
+      "content": "Who is one person you pretend to like, but actually don't?"
+    },
+    {
+      "content": "What children’s movie could you watch over and over again?"
+    },
+    {
+      "content": "Do you have bad foot odor?"
+    },
+    {
+      "content": "Do you have any silly nicknames?"
+    },
+    {
+      "content": "When was the last time you wet the bed?"
+    },
+    {
+      "content": "How many pancakes have you eaten in a single sitting?"
+    },
+    {
+      "content": "Have you ever accidentally hit something with your car?"
+    },
+    {
+      "content": "If you had to make out with any Disney character, who would it be?"
+    },
+    {
+      "content": "Have you ever watched a movie you knew you shouldn't?"
+    },
+    {
+      "content": "Have you ever wanted to try LARP (Live Action Role-Play)?"
+    },
+    {
+      "content": "What app on your phone do you waste the most time on?"
+    },
+    {
+      "content": "Have you ever pretended to be sick to get out of something? If so, what was it?"
+    },
+    {
+      "content": "What is the most food you've eaten in a single sitting?"
+    },
+    {
+      "content": "Do you dance when you're by yourself?"
+    },
+    {
+      "content": "Would you have voted for or against Trump?"
+    },
+    {
+      "content": "What song on the radio do you sing with every time it comes on?"
+    },
+    {
+      "content": "Do you sleep with a stuffed animal?"
+    },
+    {
+      "content": "Do you own a pair of footie pajamas?"
+    },
+    {
+      "content": "Are you scared of the dark?"
+    },
+    {
+      "content": "What 'as seen on TV' product do you secretly want to buy?"
+    },
+    {
+      "content": "Do you still take bubble baths?"
+    },
+    {
+      "content": "If you were home by yourself all day, what would you do?"
+    },
+    {
+      "content": "How many selfies do you take a day?"
+    },
+    {
+      "content": "What is something you've done to try to be 'cooler'?"
+    },
+    {
+      "content": "What do your favorite pajamas look like?"
+    },
+    {
+      "content": "Do you have a security blanket?"
+    },
+    {
+      "content": "Have you ever eaten something off the floor?"
+    },
+    {
+      "content": "Have you ever butt-dialed someone?"
+    },
+    {
+      "content": "Do you like hanging out with your parents?"
+    },
+    {
+      "content": "Have you ever got caught doing something you shouldn't?"
+    },
+    {
+      "content": "What part of your body do you love, and which part do you hate?"
+    },
+    {
+      "content": "Have you ever had lice?"
+    },
+    {
+      "content": "Have you ever pooped your pants?"
+    },
+    {
+      "content": "Do you lick your plate?"
+    },
+    {
+      "content": "What's the most trouble you've been in?"
+    },
+    {
+      "content": "Have you ever lied to get out of a bad date?"
+    },
+    {
+      "content": "Why did your last relationship break down?"
+    },
+    {
+      "content": "Are you virgin?"
+    },
+    {
+      "content": "What's the biggest misconception about you?"
+    },
+    {
+      "content": "What's your biggest regret?"
+    },
+    {
+      "content": "When was the last time you cried?"
+    },
+    {
+      "content": "When was the last time you lied?"
+    },
+    {
+      "content": "Do you write in a diary?"
+    },
+    {
+      "content": "What's your biggest fantasy?"
+    },
+    {
+      "content": "Have you ever cheated on someone?"
+    },
+    {
+      "content": "What's a secret you've never told anyone?"
+    },
+    {
+      "content": "Do you have a hidden talent?"
+    },
+    {
+      "content": "Who was your first celebrity crush"
+    },
+    {
+      "content": "Have you ever cheated in an exam?"
+    },
+    {
+      "content": "What's the most embarrassing thing you've ever done?"
+    },
+    {
+      "content": "What's your biggest insecurity?"
+    },
+    {
+      "content": "What's the biggest mistake you've ever made?"
+    },
+    {
+      "content": "What's the most disgusting thing you've ever done?"
+    },
+    {
+      "content": "What's the worst thing anyone's ever done to you?"
+    },
+    {
+      "content": "Have you ever had a run in with the law?"
+    },
+    {
+      "content": "What's your worst habit?"
+    },
+    {
+      "content": "What's the worst thing you've ever said to anyone?"
+    },
+    {
+      "content": "Have you ever peed in the shower?"
+    },
+    {
+      "content": "What's the strangest dream you've had?"
+    },
+    {
+      "content": "Have you ever been caught doing something you shouldn't have?"
+    },
+    {
+      "content": "What's the worst date you've been on?"
+    }
+  ],
+  "dare": [
+    {
+      "content": "Let another player post a status on your social."
+    },
+    {
+      "content": "Do freestyle rap for 1 minute about the other participants."
+    },
+    {
+      "content": "Smell every other players' armpits."
+    },
+    {
+      "content": "Kiss the person to your left."
+    },
+    {
+      "content": "Do an impression of another player until someone can figure out who it is."
+    },
+    {
+      "content": "Call your crush."
+    },
+    {
+      "content": "Dance with no music for 1 minute."
+    },
+    {
+      "content": "Do a cartwheel."
+    },
+    {
+      "content": "Let the person on your right draw on your face."
+    },
+    {
+      "content": "Give your phone to another player who can send one text saying anything they want to one of your contacts."
+    },
+    {
+      "content": "Drink lemon juice."
+    },
+    {
+      "content": "Crack an egg on our head."
+    },
+    {
+      "content": "wap clothes with someone of the opposite sex for 2 rounds."
+    },
+    {
+      "content": "Act like a chicken until your next turn."
+    },
+    {
+      "content": "Burp the alphabet."
+    },
+    {
+      "content": "Talk in a Jamaican accent until your next turn."
+    },
+    {
+      "content": "Call a friend, pretend it's their birthday, and sing “Happy Birthday” to them."
+    },
+    {
+      "content": "Perform ballet for 1 minute."
+    },
+    {
+      "content": "Shower with your clothes on."
+    },
+    {
+      "content": "Take a selfie on the toilet and post it."
+    },
+    {
+      "content": "End each sentence with the word “not” until your next turn."
+    },
+    {
+      "content": "Name a famous person that looks like each player."
+    },
+    {
+      "content": "Dance like your life depends on it."
+    },
+    {
+      "content": "Eat a packet of hot sauce or ketchup straight."
+    },
+    {
+      "content": "Pour ice down your pants."
+    },
+    {
+      "content": "Spin around 12 times and try to walk straight."
+    },
+    {
+      "content": "Put on a blindfold and touch the other players’ faces until you can figure out who it is."
+    },
+    {
+      "content": "Let the other players redo your hairstyle."
+    },
+    {
+      "content": "Eat a raw egg."
+    },
+    {
+      "content": "Let the player to your right redo your makeup."
+    },
+    {
+      "content": "Pretend to be a squirrel until your next turn."
+    },
+    {
+      "content": "Dump a bucket of cold water on your head."
+    },
+    {
+      "content": "Lick a bar of soap."
+    },
+    {
+      "content": "Eat a teaspoon of mustard."
+    },
+    {
+      "content": "Talk without closing your mouth."
+    },
+    {
+      "content": "You have 5 minutes to write a country song and perform it."
+    },
+    {
+      "content": "Let someone paint your nails any way they want."
+    },
+    {
+      "content": "Do 5 minutes of stand-up comedy."
+    },
+    {
+      "content": "Quack like a duck until your next turn."
+    },
+    {
+      "content": "Sing the national anthem in a British accent."
+    },
+    {
+      "content": "Do 100 squats."
+    },
+    {
+      "content": "Show the most embarrassing photo on your phone."
+    },
+    {
+      "content": "Give a foot massage to the person on your right."
+    },
+    {
+      "content": "Eat a banana without using your hands."
+    },
+    {
+      "content": "Twerk for a minute."
+    },
+    {
+      "content": "Keep your eyes closed until it's your go again."
+    },
+    {
+      "content": "Like the first 15 posts on your Facebook newsfeed."
+    },
+    {
+      "content": "Send a sext to the last person in your phonebook."
+    },
+    {
+      "content": "Eat a raw onion."
+    },
+    {
+      "content": "Keep three ice cubes in your mouth until they melt."
+    },
+    {
+      "content": "Give a lap dance to someone of your choice."
+    },
+    {
+      "content": "Yell out the first word that comes to your mind."
+    },
+    {
+      "content": "Show off your orgasm face."
+    },
+    {
+      "content": "Empty out your wallet/purse and show everyone what's inside."
+    },
+    {
+      "content": "Remove four items of clothing."
+    },
+    {
+      "content": "Put 10 different available liquids into a cup and drink it."
+    },
+    {
+      "content": "Do your best impression of a baby being born."
+    },
+    {
+      "content": "Try to lick your elbow."
+    },
+    {
+      "content": "Pretend to be the person to your right for 10 minutes."
+    },
+    {
+      "content": "Do your best sexy crawl."
+    },
+    {
+      "content": "Try to drink a glass of water while standing on your hands."
+    },
+    {
+      "content": "Say two honest things about everyone else in the group."
+    },
+    {
+      "content": "Put as many snacks into your mouth at once as you can."
+    },
+    {
+      "content": "Try and make the group laugh as quickly as possible."
+    },
+    {
+      "content": "Let someone shave part of your body."
+    },
+    {
+      "content": "Tell everyone an embarrassing story about yourself."
+    },
+    {
+      "content": "For a guy, put on makeup. For a girl, wash off your make up."
+    },
+    {
+      "content": "Do four cartwheels in a row."
+    },
+    {
+      "content": "Tell the saddest story you know."
+    },
+    {
+      "content": "Belly dance like your life depended on it."
+    },
+    {
+      "content": "Curse like sailor for 20 seconds straight."
+    },
+    {
+      "content": "Howl like a wolf."
+    },
+    {
+      "content": "Dance without music for one minute."
+    },
+    {
+      "content": "Pole dance with an imaginary pole."
+    },
+    {
+      "content": "Let someone else tickle you and try not to laugh."
+    },
+    {
+      "content": "Talk in an accent for the next 3 rounds."
+    },
+    {
+      "content": "Make every person in the group smile, keep going until everyone has cracked a smile."
+    },
+    {
+      "content": "Kiss the person to your left."
+    },
+    {
+      "content": "Attempt to do a magic trick."
+    },
+    {
+      "content": "Attempt to breakdance for one minute."
+    },
+    {
+      "content": "Take a shower with your clothes on."
+    },
+    {
+      "content": "Attempt to walk on your hands for as far as you can."
+    },
+    {
+      "content": "Get slapped on the face by the person of your choosing."
+    },
+    {
+      "content": "Seduce a member of the same gender in the group."
+    },
+    {
+      "content": "Choose someone from the group to give you a spanking."
+    },
+    {
+      "content": "Drag your butt on the carpet like a dog from one end of the room to the other."
+    },
+    {
+      "content": "Open a bag of snacks or candy using only your mouth, no hands or feet."
+    },
+    {
+      "content": "Bend at the waist so that you are looking behind you between your legs. Now run backwards until you can tag someone with your butt."
+    },
+    {
+      "content": "Go to the bathroom, take off your underwear and put it on your head. Wear it on your head for the rest of the game."
+    },
+    {
+      "content": "Act like whatever animal someone yells out for the next 1 minute."
+    },
+    {
+      "content": "Eat one teaspoon of the spiciest thing you have in the kitchen."
+    },
+    {
+      "content": "Transfer an ice cube from your mouth to the person's mouth on your right."
+    },
+    {
+      "content": "Sit in a spinning chair and have the group spin you for 30 seconds."
+    },
+    {
+      "content": "Jump up and down as high as you can go for a full minute."
+    },
+    {
+      "content": "Beg and plead the person to your right not to leave you for that other boy or girl."
+    },
+    {
+      "content": "Put ice cubes down your pants."
+    },
+    {
+      "content": "Let the group pose you in an embarrassing position and take a picture."
+    },
+    {
+      "content": "Let the group look through your phone for one minute."
+    }
+  ]
+}
 }
